@@ -1,0 +1,1 @@
+http://+target/ping.ccp?ccp_act=ping_v6&ping_addr=$(+var0)'

